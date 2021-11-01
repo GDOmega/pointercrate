@@ -15,8 +15,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: set version to nightly
-      run: rustup install nightly
+    - name: set version to stable
+      run: rustup install stable
     - name: pandoc
       run: sudo apt-get install pandoc -y
     - name: install diesel cli
