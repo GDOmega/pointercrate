@@ -1,8 +1,9 @@
 # Pointercrate
 
-# Disclaimer
+### Disclaimer
 As the current maintainer of this instance of the pointercrate repository, you are fully expected to build your site from scratch. I will provide help as needed but don't expect full files.
 
+---
 As of November 4 2021 this is the official repository for the version of pointercrate utilized by Omega. In comparison to [Stadust's Codebase](https://github.com/stadust/pointercrate), This Repository contains all source code used for running a normal pointercrate instance. In particular, this repository *does* contain
 
 - a `main.rs` file stitching together the code in the different libraries
